@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_OPENWEATHERMAP_API_KEY'; // Reemplaza con tu API key de OpenWeatherMap
+const apiKey = 'a6c70ff6ee453d0222a396af6c64552f'; // Reemplaza con tu API key de OpenWeatherMap
 const city = 'Bogotá'; // Ciudad por defecto
 
 const cityElement = document.getElementById('city');
